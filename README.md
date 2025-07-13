@@ -1,6 +1,6 @@
 I've created a comprehensive banking program in Java that includes:
 
-###Key Features:
+#Key Features:
 
 Account Management: Create new accounts with unique account numbers
 Deposits: Add money to any account
